@@ -1,4 +1,6 @@
-# CMT304 - Programming Paradigms    Occurrence - 19A    Ac Yr - 2019/0    Welsh % - 0 
+# CMT304 - Programming Paradigms    
+
+Occurrence - 19A    Ac Yr - 2019/0    Welsh % - 0 
 
 Outline Description of Module:
 
@@ -39,3 +41,49 @@ Coursework:  the coursework will allow students to demonstrate their knowledge a
 Exam: a written exam (2 h) will test the student’s knowledge and understanding as elaborated under the learning outcomes.
 
 Students will be provided with reassessment opportunities in line with University regulations.
+
+
+Syllabus content:
+
+Advanced imperative and object-oriented programming
+
+The module will cover a number of programming paradigms and programming languages, which, among others, may include a selection from:
+        Functional programming
+     Declarative and logic programming
+     Programming paradigms and concurrency
+     Filter-based computing and pattern matching
+
+    Scripting
+
+   Genetic programming
+
+   Assembly language/machine code
+
+   Other programming paradigms
+
+It might also cover:
+     Programming language design choices
+     Formal methods
+     Choosing a programming paradigm and programming language
+
+Essential Reading and Resource List:
+
+
+In addition to the Study Guide provided, students will be expected to widely research contemporary issues as reflected in appropriate journals.
+
+
+Background Reading and Resource List:
+
+In addition to the Study Guide provided, students will be expected to widely research contemporary issues as reflected in appropriate journals.  The following books may also be relevant; other books will be recommended during lectures:
+ Concepts of Programming Languages (10th Edition), R. W. Sebesta, Pearson Education
+ Programming Languages: Principles and Practice, (3rd Edition), K. C. Louden, K.A. Lambert, Cengage
+ Introduction to Programming Languages, A. K. Bansal, CRC Press
+ Lisp (3rd Edition), P. Winston, B. Horn, Addison-Wesley
+ Programming in Haskell, G. Hutton, CUP
+ Scala for the Impatient, C. S. Horstmann, Addison-Wesley;
+ Introduction to the Art of Programming in Scala, M.C. Lewis, CRC Press
+ The Art of Prolog (2nd Edition), L. Sterling, E. Shapiro, MIT Press
+ Horstmann, C. S. 2016. Core Java Volume 1 , Fundamentals 10th ed  Prentice Hall 
+ Horstmann, C. S. 2017. Core Java Volume 2 , Advacned Features 10th ed  Prentice Hall 
+ VanderPlas Jake 2017 Python Data Science Handbook
+
